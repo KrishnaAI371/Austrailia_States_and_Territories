@@ -24,4 +24,6 @@ The data was manually compiled into an Excel file:
 ## 🚀 Usage  
 1. Open the Excel file in **Power BI**, **Excel**, or any data visualization tool.  
 2. Use bar charts, maps, or pie charts to compare areas.  
-3. Add filters or slicers if you want interactive comparisons.  
+3. Add filters or slicers if you want interactive comparisons.
+
+4. https://learn.microsoft.com/en-us/power-bi/learning-catalog/?source=chatgpt.com
